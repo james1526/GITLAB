@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main()
 {
-	printf("love test1");
-	printf("love2");
+	printf("love,1234");
+	printf("love2,2345");
 }
